@@ -1,0 +1,21 @@
+help
+info
+power
+botlog
+chatlog
+delog
+compile
+weather [location]
+code [source]
+tran [BeforeLenguage] [AfterLenguage] [Text]
+parse [ URL ]
+pjsoup [ URL ]
+timer [ second ]
+date
+cal [ expression ]
+search [ SearchEngin ] [ text ]
+/*amemo [ text ]
+vmemo
+dmemo*/
+incode [ form ] [ text ]
+decode [ form ] [ text ]
