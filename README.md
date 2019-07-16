@@ -1,4 +1,4 @@
-# Vot Update Log
+## Vot Update Log
 
 ### 1.0.01
 
