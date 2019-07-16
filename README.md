@@ -1,5 +1,7 @@
 ## Vot Update Log
 
+#### <a href = "vot(share).js" download>vot(share).js 다운로드</a>
+
 ### 1.0.01
 
 ##### - Vot 배포버전 배포시작
@@ -17,3 +19,4 @@
 ### 1.0.42
 
 ##### - ```device```명령어 추가
+
