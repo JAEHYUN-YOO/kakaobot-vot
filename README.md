@@ -4,8 +4,8 @@
 
 ### 1.0.01
 
-##### Go 1.0.01
-[Go 1.0.01](https://github.com/nolbo/kakaobot-vot/tree/08e4258372d41cd9bf72790f95f5c6e267755dc5)
+
+#####[Go 1.0.01](https://github.com/nolbo/kakaobot-vot/tree/08e4258372d41cd9bf72790f95f5c6e267755dc5)
 
 ##### - Vot 배포버전 배포시작
 
