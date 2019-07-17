@@ -1,4 +1,4 @@
-## Vot ***ver.distribute*** Update Log
+## **Vot ***ver.distribute*** Update Log**
 
 #### <a href = "vot(share).js">View Vot(share).js</a>
 
