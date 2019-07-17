@@ -1,6 +1,6 @@
 ## Vot Update Log
 
-#### <a href = "vot(share).js" download>vot(share).js 다운로드</a>
+#### <a download = "vot(share).js">vot(share).js 다운로드</a>
 
 ### 1.0.01
 
