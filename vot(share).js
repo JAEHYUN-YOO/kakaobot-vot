@@ -2,7 +2,7 @@
 
 /*
 Made by nolbo
-vot 포파일
+vot 배포파일
 */
 
 /*Bot List*/
