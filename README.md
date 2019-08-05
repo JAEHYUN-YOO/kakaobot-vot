@@ -1,4 +1,4 @@
-## **Vot ***ver.distribute*** Update Log**
+## **Vot ***ver.AFS*** Update Log**
 
 #### <a href = "vot(share).js">View Vot(share).js</a>
 
@@ -21,4 +21,13 @@
 ### 1.0.42
 
 ##### - ```device```명령어 추가
+
+
+
+
+## ***Precautions***
+
+##### Vot AFS 버전의 번역은 ***messengerbot***에 내장된 Api(Papago AMT)를 이용한 것이므로 지원되는 언어가 적습니다.
+
+##### Vot AFS 버전의 소스 내에 경로를 지정해야하는 소스가 있습니다.
 
